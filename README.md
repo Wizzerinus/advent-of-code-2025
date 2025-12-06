@@ -23,8 +23,10 @@ I only picked languages with which it's possible to do string manipulation effec
 - Day 8: Go
 - Day 9: Haskell
 - Day 10: C++
-- Day 11: Typescript
-- Day 12: Rust
+- Day 11: Rust
+- Day 12: Free space!
+
+_Note: originally Typescript was on this list, but I decided it was too similar to Javascript for such small tasks and replaced it with a free space instead._
 
 ## Others
 
