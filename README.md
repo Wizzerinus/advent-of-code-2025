@@ -18,17 +18,16 @@ I only picked languages with which it's possible to do string manipulation effec
 - Day 4: Javascript
 - Day 5: Java
 - Day 6: Python
-- Day 7: Cangjie
-  - I do not know anything about this language except that I need to get its compiler for my thesis. This is going to be fun.
-- Day 8: Go
+- Day 7: Go
+- Day 8: C++
 - Day 9: Haskell
-- Day 10: C++
-- Day 11: Rust
+- Day 10: Rust
+- Day 11: Free space!
 - Day 12: Free space!
-
-_Note: originally Typescript was on this list, but I decided it was too similar to Javascript for such small tasks and replaced it with a free space instead._
 
 ## Others
 
-- I planned to use Lama for one of the problems, but it turned out that its implementation of Ostap is way too slow to use it, even with having memorization everywhere.
+- I planned to use Lama for one of the problems, but it turned out that its implementation of Ostap is way too slow to use it, even with having memorization everywhere. Replaced it with C.
+- I planned to use Typescript for one of the problems, but decided it was too similar to Javascript for such small tasks and replaced it with a free space instead.
+- I planned to use Cangjie for one of the problems, but couldn't get its compiler to work on my machine in time, and replaced it with a free space as well.
 - Maybe there will be Lisp next year :P
